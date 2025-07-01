@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html> 
 <head>
-    <title>Student List</title>
+    <title>Student List</title> 
 </head>
 <body>
     <h2>All Student Records</h2>
