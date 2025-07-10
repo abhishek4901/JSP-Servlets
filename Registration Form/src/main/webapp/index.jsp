@@ -6,7 +6,7 @@
     <title>Register Student</title>
 </head>
 <body> 
-    <h2>Student Registration Form</h2>
+    <h2>Student Registration Form</h2> 
     <form method="post">
         ID: <input type="number" name="id" required><br><br>
         Name: <input type="text" name="name" required><br><br>
