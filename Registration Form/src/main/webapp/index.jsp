@@ -4,7 +4,7 @@
 <html> 
 <head>
     <title>Register Student</title>
-</head>
+</head> 
 <body> 
     <h2>Student Registration Form</h2> 
     <form method="post">
