@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html> 
 <head> 
-    <title>Register Student</title>
+    <title>Register Student</title> 
 </head> 
 <body> 
     <h2>Student Registration Form</h2> 
